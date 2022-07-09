@@ -1,2 +1,2 @@
 # walkers
-Way to bad to think about my project dude
+Way too bad to think about my project dude
