@@ -1,3 +1,3 @@
 # walkers
-based on responsive,every mobile view
+Based on responsive,every mobile view
 
